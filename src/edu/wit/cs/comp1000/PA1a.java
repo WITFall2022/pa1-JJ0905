@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // TODO: document this class
 public class PA1a {
-
+ 
 
 	public static void main(String[] args) {
 		/*
